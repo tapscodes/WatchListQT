@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>watchtime.png</file>
+        <file>alert.png</file>
+    </qresource>
+</RCC>
